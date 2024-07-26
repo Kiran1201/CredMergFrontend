@@ -17,7 +17,7 @@ const AddVendor = () => {
 
     return (
         <div className="col-md-6 offset-md-3 border rounded p-4 mt-2 shadow">
-            <h3>Add Employee</h3>
+            <h3>Add Vendor</h3>
             <form onSubmit={handleSubmit}>
                 <div className="form-group mb-3">
                     <label htmlFor="name">Name</label>
